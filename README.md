@@ -1,6 +1,6 @@
 # Bloom Cosmetics Landing Page
 
-Skincare e-commerce landing page inspired by Nykaa. Product catalog, routines, beauty tips — clean responsive UI built with HTML and CSS.
+Skincare e-commerce landing page inspired by Nykaa. Product catalog, routines, beauty tips — clean UI built with HTML and CSS.
 
 ## What's inside
 
