@@ -7,7 +7,6 @@ Skincare e-commerce landing page inspired by Nykaa. Product catalog, routines, b
 - Product grid with categories
 - Skincare routine guides
 - Beauty tips section
-- Responsive layout that works on mobile and desktop
 
 ## How to view
 
